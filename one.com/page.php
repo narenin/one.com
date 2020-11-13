@@ -10,16 +10,13 @@
  * @subpackage Twenty_Sixteen
  * @since Twenty Sixteen 1.0
  */
-
 get_header(); ?>
-
 <div id="primary_pages" class="content-area">
 	<main id="main" class="site-main" role="main">
 		<?php
 		// Start the loop.
 		while ( have_posts() ) :
 			the_post();
-
 			// Include the page content template.
 			get_template_part( 'template-parts/content', 'page' );
 
