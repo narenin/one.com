@@ -1,0 +1,6 @@
+[14-Sep-2020 03:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: cusColor in C:\xampp\htdocs\cea-website\wp-content\themes\CEA\template_dashboard.php on line 1538
+[14-Sep-2020 03:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: cusColor in C:\xampp\htdocs\cea-website\wp-content\themes\CEA\template_dashboard.php on line 1538
+[14-Sep-2020 03:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: cusColor in C:\xampp\htdocs\cea-website\wp-content\themes\CEA\template_dashboard.php on line 1538
+[14-Sep-2020 03:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: cusColor in C:\xampp\htdocs\cea-website\wp-content\themes\CEA\template_dashboard.php on line 1538
+[14-Sep-2020 03:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: cusColor in C:\xampp\htdocs\cea-website\wp-content\themes\CEA\template_dashboard.php on line 1538
+[14-Sep-2020 03:46:44 Asia/Kolkata] PHP Notice:  Undefined variable: cusColor in C:\xampp\htdocs\cea-website\wp-content\themes\CEA\template_dashboard.php on line 1547

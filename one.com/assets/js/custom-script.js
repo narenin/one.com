@@ -1,0 +1,1 @@
+var swiper=new Swiper('#home_page_banner',{effect:'fade',pagination:{el:'.swiper-pagination',clickable:!0,},})

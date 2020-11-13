@@ -1,0 +1,3110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CEA Website\n"
+"POT-Creation-Date: 2020-05-05 20:32+0530\n"
+"PO-Revision-Date: 2020-05-05 20:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ajax/archive_yearly_reports.php:207
+msgid "."
+msgstr ""
+
+#: ajax/daily_reports.php:43 ajax/daily_reports.php:108
+#: template_daily_coal_reports.php:98 template_daily_reports.php:99
+msgid "https://view.officeapps.live.com/op/embed.aspx?src="
+msgstr ""
+
+#: ajax/filter_report_result.php:13 ajax/filter_report_result.php:38
+msgid ""
+"<option>Select Type</option>\n"
+"\t\t\t\t<option>Daily</option>\n"
+"\t\t\t\t<option>Monthly</option>\n"
+"\t\t\t\t<option>Annualy</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:19 ajax/filter_report_result.php:33
+msgid ""
+"<option>Select Type</option>\n"
+"\t\t\t\t<option>Daily</option>\n"
+"\t\t\t\t<option>Annualy</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:24
+msgid ""
+"<option>Select Type</option>\n"
+"\t\t\t\t<option>Monthly</option>\n"
+"\t\t\t\t<option>Annualy</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:29
+msgid ""
+"<option>Select Type</option>\n"
+"\t\t\t\t<option>Annualy</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:67
+msgid ""
+"<option>Planning Daily Report Type 1</option><option>Planning Daily Report "
+"Type 2</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:70
+msgid ""
+"<option>Thermal Daily Report Type 1</option><option>Thermal Daily Report "
+"Type 2</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:73
+msgid ""
+"<option>Hydro Daily Report Type 1</option><option>Hydro Daily Report Type 2</"
+"option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:76
+msgid ""
+"<option>Power System Daily Report Type 1</option><option>Hydro Daily Report "
+"Type 2</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:79
+msgid ""
+"<option>Grid Operation Daily Report Type 1</option><option>Hydro Daily "
+"Report Type 2</option>"
+msgstr ""
+
+#: ajax/filter_report_result.php:82
+msgid ""
+"<option>Economic & Commercial Daily Report Type 1</option><option>Hydro "
+"Daily Report Type 2</option>"
+msgstr ""
+
+#: archive.php:51 index.php:48
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:52 index.php:49
+msgid "Next page"
+msgstr ""
+
+#: archive.php:53 image.php:62 index.php:50 template-parts/content-page.php:31
+#: template-parts/content-single.php:30 template-parts/content.php:40
+msgid "Page"
+msgstr ""
+
+#. translators: %s: Post title.
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:24
+msgid "Hit Count : "
+msgstr ""
+
+#: front-page.php:16
+msgid "Head Officers"
+msgstr ""
+
+#: front-page.php:47 meta/meta-register-post.php:66
+#: meta/meta-register-post.php:67
+msgid "Notification"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: front-page.php:52
+msgid "Circular"
+msgstr ""
+
+#: front-page.php:274 meta/meta-register-post.php:110
+#: meta/meta-register-post.php:111
+msgid "Latest News"
+msgstr ""
+
+#: front-page.php:334 template_national_reliability_council_electricity.php:95
+#: template_national_reliability_council_electricity.php:103
+msgid "<a href=\""
+msgstr ""
+
+#: front-page.php:354
+msgid "View All"
+msgstr ""
+
+#: front-page.php:376
+msgid "Committee Meetings"
+msgstr ""
+
+#: front-page.php:396
+msgid "Recent Reports"
+msgstr ""
+
+#: front-page.php:403
+msgid "Planning"
+msgstr ""
+
+#: front-page.php:408
+msgid "Thermal"
+msgstr ""
+
+#: front-page.php:412
+msgid "Hydro"
+msgstr ""
+
+#: front-page.php:416
+msgid "Power System"
+msgstr ""
+
+#: front-page.php:421
+msgid "Grid Operation & distribution"
+msgstr ""
+
+#: front-page.php:426
+msgid "Economic & Commercial"
+msgstr ""
+
+#: front-page.php:547
+msgid "Photos & Video Gallery"
+msgstr ""
+
+#: functions.php:117
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:118
+msgid "Language Menu"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer Menu Left"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer Menu Middle"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Menu Right"
+msgstr ""
+
+#: functions.php:182
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:187
+msgid "Medium Gray"
+msgstr ""
+
+#: functions.php:192
+msgid "Light Gray"
+msgstr ""
+
+#: functions.php:197
+msgid "White"
+msgstr ""
+
+#: functions.php:202
+msgid "Blue Gray"
+msgstr ""
+
+#: functions.php:207
+msgid "Bright Blue"
+msgstr ""
+
+#: functions.php:212
+msgid "Light Blue"
+msgstr ""
+
+#: functions.php:217
+msgid "Dark Brown"
+msgstr ""
+
+#: functions.php:222
+msgid "Medium Brown"
+msgstr ""
+
+#: functions.php:227
+msgid "Dark Red"
+msgstr ""
+
+#: functions.php:232
+msgid "Bright Red"
+msgstr ""
+
+#: functions.php:237 inc/customizer.php:355
+msgid "Yellow"
+msgstr ""
+
+#: functions.php:295
+msgid "Welcome To CEA"
+msgstr ""
+
+#: functions.php:297 functions.php:309 functions.php:322 functions.php:336
+#: functions.php:349 functions.php:361 functions.php:373 functions.php:385
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: functions.php:307
+msgid "Important Link"
+msgstr ""
+
+#: functions.php:320
+msgid "Copy Right"
+msgstr ""
+
+#: functions.php:334
+msgid "Connect With"
+msgstr ""
+
+#: functions.php:347
+msgid "Footer Left Logo"
+msgstr ""
+
+#: functions.php:359
+msgid "Top Header"
+msgstr ""
+
+#: functions.php:371
+msgid "Newsletter Form"
+msgstr ""
+
+#: functions.php:383
+msgid "Logo and Header"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own language.
+#.
+#: functions.php:416
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own language.
+#.
+#: functions.php:424
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own language.
+#.
+#: functions.php:432
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:513
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:514
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:869
+msgid "The following fields are required and highlighted below:"
+msgstr ""
+
+#: image.php:25
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:26
+msgid "Next Image"
+msgstr ""
+
+#: image.php:58 template-parts/content-page.php:27
+#: template-parts/content-single.php:26 template-parts/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Post title.
+#: image.php:88 template-parts/content-page.php:45
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 template-parts/content.php:53
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: image.php:107 single.php:31
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:42 inc/back-compat.php:56 inc/back-compat.php:75
+#, php-format
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Secondary Text Color"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Gray"
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Red"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:53
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:100 inc/template-tags.php:109
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:104
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:195 template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: meta/meta-register-post.php:6 meta/meta-register-post.php:7
+msgid "Banner"
+msgstr ""
+
+#: meta/meta-register-post.php:8 meta/meta-register-post.php:9
+#: meta/meta-register-post.php:11
+msgid "Add New Banner"
+msgstr ""
+
+#: meta/meta-register-post.php:10
+msgid "Edit Banner"
+msgstr ""
+
+#: meta/meta-register-post.php:12
+msgid "View Banner"
+msgstr ""
+
+#: meta/meta-register-post.php:13
+msgid "Search Banner"
+msgstr ""
+
+#: meta/meta-register-post.php:14
+msgid "No Banner found"
+msgstr ""
+
+#: meta/meta-register-post.php:15
+msgid "No Banner found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:37 meta/meta-register-post.php:38
+msgid "Tender"
+msgstr ""
+
+#: meta/meta-register-post.php:39 meta/meta-register-post.php:40
+#: meta/meta-register-post.php:42
+msgid "Add New Tender"
+msgstr ""
+
+#: meta/meta-register-post.php:41
+msgid "Edit Tender"
+msgstr ""
+
+#: meta/meta-register-post.php:43
+msgid "View Tender"
+msgstr ""
+
+#: meta/meta-register-post.php:44
+msgid "Search Tender"
+msgstr ""
+
+#: meta/meta-register-post.php:45
+msgid "No Tender found"
+msgstr ""
+
+#: meta/meta-register-post.php:46
+msgid "No Tender found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:68 meta/meta-register-post.php:69
+#: meta/meta-register-post.php:71
+msgid "Add New Notification"
+msgstr ""
+
+#: meta/meta-register-post.php:70
+msgid "Edit Notification"
+msgstr ""
+
+#: meta/meta-register-post.php:72
+msgid "View Notification"
+msgstr ""
+
+#: meta/meta-register-post.php:73
+msgid "Search Notification"
+msgstr ""
+
+#: meta/meta-register-post.php:74
+msgid "No Notification found"
+msgstr ""
+
+#: meta/meta-register-post.php:75
+msgid "No Notification found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:94
+msgid "News Type"
+msgstr ""
+
+#: meta/meta-register-post.php:112 meta/meta-register-post.php:113
+#: meta/meta-register-post.php:115
+msgid "Add New Latest News"
+msgstr ""
+
+#: meta/meta-register-post.php:114
+msgid "Edit Latest News"
+msgstr ""
+
+#: meta/meta-register-post.php:116
+msgid "View Latest News"
+msgstr ""
+
+#: meta/meta-register-post.php:117
+msgid "Search Latest News"
+msgstr ""
+
+#: meta/meta-register-post.php:118
+msgid "No Latest News found"
+msgstr ""
+
+#: meta/meta-register-post.php:119
+msgid "No Latest News found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:141 meta/meta-register-post.php:142
+msgid "Glance"
+msgstr ""
+
+#: meta/meta-register-post.php:143 meta/meta-register-post.php:144
+#: meta/meta-register-post.php:146
+msgid "Add New Glance"
+msgstr ""
+
+#: meta/meta-register-post.php:145
+msgid "Edit Glance"
+msgstr ""
+
+#: meta/meta-register-post.php:147
+msgid "View Glance"
+msgstr ""
+
+#: meta/meta-register-post.php:148
+msgid "Search Glance"
+msgstr ""
+
+#: meta/meta-register-post.php:149
+msgid "No Glance found"
+msgstr ""
+
+#: meta/meta-register-post.php:150
+msgid "No Glance found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:172 meta/meta-register-post.php:173
+msgid "Minister of Power"
+msgstr ""
+
+#: meta/meta-register-post.php:174 meta/meta-register-post.php:175
+#: meta/meta-register-post.php:177
+msgid "Add New Minister of Power"
+msgstr ""
+
+#: meta/meta-register-post.php:176
+msgid "Edit Minister of Power"
+msgstr ""
+
+#: meta/meta-register-post.php:178
+msgid "View Minister of Power"
+msgstr ""
+
+#: meta/meta-register-post.php:179
+msgid "Search Minister of Power"
+msgstr ""
+
+#: meta/meta-register-post.php:180
+msgid "No Minister of Power found"
+msgstr ""
+
+#: meta/meta-register-post.php:181
+msgid "No Minister of Power found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:203 meta/meta-register-post.php:204
+msgid "Gallery Video"
+msgstr ""
+
+#: meta/meta-register-post.php:205 meta/meta-register-post.php:206
+#: meta/meta-register-post.php:208
+msgid "Add New Gallery Video"
+msgstr ""
+
+#: meta/meta-register-post.php:207
+msgid "Edit Gallery Video"
+msgstr ""
+
+#: meta/meta-register-post.php:209
+msgid "View Gallery Video"
+msgstr ""
+
+#: meta/meta-register-post.php:210
+msgid "Search Gallery Video"
+msgstr ""
+
+#: meta/meta-register-post.php:211
+msgid "No Gallery Video found"
+msgstr ""
+
+#: meta/meta-register-post.php:212
+msgid "No Gallery Video found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:237 meta/meta-register-post.php:238
+msgid "Client Logo"
+msgstr ""
+
+#: meta/meta-register-post.php:239 meta/meta-register-post.php:240
+#: meta/meta-register-post.php:242
+msgid "Add New Client Logo"
+msgstr ""
+
+#: meta/meta-register-post.php:241
+msgid "Edit Client Logo"
+msgstr ""
+
+#: meta/meta-register-post.php:243
+msgid "View Client Logo"
+msgstr ""
+
+#: meta/meta-register-post.php:244
+msgid "Search Client Logo"
+msgstr ""
+
+#: meta/meta-register-post.php:245
+msgid "No Client Logo found"
+msgstr ""
+
+#: meta/meta-register-post.php:246
+msgid "No Client Logo found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:269
+msgid "Daily Renewable Generation Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:270
+msgid "Daily Renewable Generation Report"
+msgstr ""
+
+#: meta/meta-register-post.php:271 meta/meta-register-post.php:272
+#: meta/meta-register-post.php:274
+msgid "Add New Daily Renewable Generation Report"
+msgstr ""
+
+#: meta/meta-register-post.php:273
+msgid "Edit Daily Renewable Generation Report"
+msgstr ""
+
+#: meta/meta-register-post.php:275
+msgid "View Daily Renewable Generation Report"
+msgstr ""
+
+#: meta/meta-register-post.php:276
+msgid "Search Daily Renewable Generation Report"
+msgstr ""
+
+#: meta/meta-register-post.php:277
+msgid "No Daily Renewable Generation Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:278
+msgid "No Daily Renewable Generation Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:299
+msgid "Daily Coal Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:300
+msgid "Daily Coal Report"
+msgstr ""
+
+#: meta/meta-register-post.php:301 meta/meta-register-post.php:302
+#: meta/meta-register-post.php:304
+msgid "Add New Daily Coal Report"
+msgstr ""
+
+#: meta/meta-register-post.php:303
+msgid "Edit Daily Coal Report"
+msgstr ""
+
+#: meta/meta-register-post.php:305
+msgid "View Daily Coal Report"
+msgstr ""
+
+#: meta/meta-register-post.php:306
+msgid "Search Daily Coal Report"
+msgstr ""
+
+#: meta/meta-register-post.php:307
+msgid "No Daily Coal Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:308
+msgid "No Daily Coal Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:331 meta/meta-register-post.php:332
+msgid "Light Box"
+msgstr ""
+
+#: meta/meta-register-post.php:333 meta/meta-register-post.php:334
+#: meta/meta-register-post.php:336
+msgid "Add New Light Box"
+msgstr ""
+
+#: meta/meta-register-post.php:335
+msgid "Edit Light Box"
+msgstr ""
+
+#: meta/meta-register-post.php:337
+msgid "View Light Box"
+msgstr ""
+
+#: meta/meta-register-post.php:338
+msgid "Search Light Box"
+msgstr ""
+
+#: meta/meta-register-post.php:339
+msgid "No Light Box found"
+msgstr ""
+
+#: meta/meta-register-post.php:340
+msgid "No Light Box found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:361
+msgid "Album"
+msgstr ""
+
+#: meta/meta-register-post.php:384 meta/meta-register-post.php:385
+msgid "Pfame Report"
+msgstr ""
+
+#: meta/meta-register-post.php:386 meta/meta-register-post.php:387
+#: meta/meta-register-post.php:389
+msgid "Add New Pfame Report"
+msgstr ""
+
+#: meta/meta-register-post.php:388
+msgid "Edit Pfame Report"
+msgstr ""
+
+#: meta/meta-register-post.php:390
+msgid "View Pfame Report"
+msgstr ""
+
+#: meta/meta-register-post.php:391
+msgid "Search Pfame Report"
+msgstr ""
+
+#: meta/meta-register-post.php:392
+msgid "No Pfame Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:393
+msgid "No Pfame Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:409 meta/meta-register-post.php:563
+#: meta/meta-register-post.php:714 meta/meta-register-post.php:864
+#: meta/meta-register-post.php:1012 meta/meta-register-post.php:1161
+#: meta/meta-register-post.php:1311 meta/meta-register-post.php:1461
+#: meta/meta-register-post.php:1611 meta/meta-register-post.php:1760
+#: meta/meta-register-post.php:1910 meta/meta-register-post.php:2060
+#: meta/meta-register-post.php:2209 meta/meta-register-post.php:2359
+#: meta/meta-register-post.php:2847 meta/meta-register-post.php:2960
+#: meta/meta-register-post.php:3070 meta/meta-register-post.php:3179
+#: meta/meta-register-post.php:3289 meta/meta-register-post.php:3399
+#: meta/meta-register-post.php:3508 meta/meta-register-post.php:3857
+#: meta/meta-register-post.php:4007 meta/meta-register-post.php:4155
+#: meta/meta-register-post.php:5902 meta/meta-register-post.php:6011
+msgid "Category"
+msgstr ""
+
+#: meta/meta-register-post.php:421 meta/meta-register-post.php:437
+#: meta/meta-register-post.php:478 meta/meta-register-post.php:511
+#: meta/meta-register-post.php:575 meta/meta-register-post.php:591
+#: meta/meta-register-post.php:632 meta/meta-register-post.php:664
+#: meta/meta-register-post.php:726 meta/meta-register-post.php:742
+#: meta/meta-register-post.php:783 meta/meta-register-post.php:814
+#: meta/meta-register-post.php:876 meta/meta-register-post.php:892
+#: meta/meta-register-post.php:933 meta/meta-register-post.php:964
+#: meta/meta-register-post.php:1024 meta/meta-register-post.php:1040
+#: meta/meta-register-post.php:1081 meta/meta-register-post.php:1112
+#: meta/meta-register-post.php:1173 meta/meta-register-post.php:1189
+#: meta/meta-register-post.php:1230 meta/meta-register-post.php:1261
+#: meta/meta-register-post.php:1323 meta/meta-register-post.php:1339
+#: meta/meta-register-post.php:1380 meta/meta-register-post.php:1411
+#: meta/meta-register-post.php:1473 meta/meta-register-post.php:1489
+#: meta/meta-register-post.php:1530 meta/meta-register-post.php:1561
+#: meta/meta-register-post.php:1623 meta/meta-register-post.php:1639
+#: meta/meta-register-post.php:1680 meta/meta-register-post.php:1711
+#: meta/meta-register-post.php:1772 meta/meta-register-post.php:1788
+#: meta/meta-register-post.php:1829 meta/meta-register-post.php:1860
+#: meta/meta-register-post.php:1922 meta/meta-register-post.php:1938
+#: meta/meta-register-post.php:1979 meta/meta-register-post.php:2010
+#: meta/meta-register-post.php:2072 meta/meta-register-post.php:2088
+#: meta/meta-register-post.php:2129 meta/meta-register-post.php:2160
+#: meta/meta-register-post.php:2221 meta/meta-register-post.php:2237
+#: meta/meta-register-post.php:2279 meta/meta-register-post.php:2310
+#: meta/meta-register-post.php:2371 meta/meta-register-post.php:2387
+#: meta/meta-register-post.php:2428 meta/meta-register-post.php:2459
+#: meta/meta-register-post.php:2552 meta/meta-register-post.php:2788
+#: meta/meta-register-post.php:2859 meta/meta-register-post.php:2876
+#: meta/meta-register-post.php:2907 meta/meta-register-post.php:2972
+#: meta/meta-register-post.php:2989 meta/meta-register-post.php:3020
+#: meta/meta-register-post.php:3082 meta/meta-register-post.php:3099
+#: meta/meta-register-post.php:3130 meta/meta-register-post.php:3191
+#: meta/meta-register-post.php:3208 meta/meta-register-post.php:3239
+#: meta/meta-register-post.php:3301 meta/meta-register-post.php:3319
+#: meta/meta-register-post.php:3350 meta/meta-register-post.php:3411
+#: meta/meta-register-post.php:3428 meta/meta-register-post.php:3459
+#: meta/meta-register-post.php:3520 meta/meta-register-post.php:3537
+#: meta/meta-register-post.php:3568 meta/meta-register-post.php:3869
+#: meta/meta-register-post.php:3886 meta/meta-register-post.php:3927
+#: meta/meta-register-post.php:3958 meta/meta-register-post.php:4019
+#: meta/meta-register-post.php:4036 meta/meta-register-post.php:4077
+#: meta/meta-register-post.php:4107 meta/meta-register-post.php:4167
+#: meta/meta-register-post.php:4184 meta/meta-register-post.php:4225
+#: meta/meta-register-post.php:4256 meta/meta-register-post.php:5914
+#: meta/meta-register-post.php:5931 meta/meta-register-post.php:5962
+#: meta/meta-register-post.php:6023 meta/meta-register-post.php:6040
+#: meta/meta-register-post.php:6071
+msgid "Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:449 meta/meta-register-post.php:603
+#: meta/meta-register-post.php:754 meta/meta-register-post.php:904
+#: meta/meta-register-post.php:1052 meta/meta-register-post.php:1201
+#: meta/meta-register-post.php:1351 meta/meta-register-post.php:1501
+#: meta/meta-register-post.php:1651 meta/meta-register-post.php:1800
+#: meta/meta-register-post.php:1950 meta/meta-register-post.php:2100
+#: meta/meta-register-post.php:2249 meta/meta-register-post.php:2399
+#: meta/meta-register-post.php:3898 meta/meta-register-post.php:4048
+#: meta/meta-register-post.php:4196
+msgid "Select Month"
+msgstr ""
+
+#: meta/meta-register-post.php:450 meta/meta-register-post.php:604
+#: meta/meta-register-post.php:755 meta/meta-register-post.php:905
+#: meta/meta-register-post.php:1053 meta/meta-register-post.php:1202
+#: meta/meta-register-post.php:1352 meta/meta-register-post.php:1502
+#: meta/meta-register-post.php:1652 meta/meta-register-post.php:1801
+#: meta/meta-register-post.php:1951 meta/meta-register-post.php:2101
+#: meta/meta-register-post.php:2250 meta/meta-register-post.php:2400
+#: meta/meta-register-post.php:3899 meta/meta-register-post.php:4049
+#: meta/meta-register-post.php:4197
+msgid "January"
+msgstr ""
+
+#: meta/meta-register-post.php:451 meta/meta-register-post.php:605
+#: meta/meta-register-post.php:756 meta/meta-register-post.php:906
+#: meta/meta-register-post.php:1054 meta/meta-register-post.php:1203
+#: meta/meta-register-post.php:1353 meta/meta-register-post.php:1503
+#: meta/meta-register-post.php:1653 meta/meta-register-post.php:1802
+#: meta/meta-register-post.php:1952 meta/meta-register-post.php:2102
+#: meta/meta-register-post.php:2251 meta/meta-register-post.php:2401
+#: meta/meta-register-post.php:3900 meta/meta-register-post.php:4050
+#: meta/meta-register-post.php:4198
+msgid "February"
+msgstr ""
+
+#: meta/meta-register-post.php:452 meta/meta-register-post.php:606
+#: meta/meta-register-post.php:757 meta/meta-register-post.php:907
+#: meta/meta-register-post.php:1055 meta/meta-register-post.php:1204
+#: meta/meta-register-post.php:1354 meta/meta-register-post.php:1504
+#: meta/meta-register-post.php:1654 meta/meta-register-post.php:1803
+#: meta/meta-register-post.php:1953 meta/meta-register-post.php:2103
+#: meta/meta-register-post.php:2252 meta/meta-register-post.php:2402
+#: meta/meta-register-post.php:3901 meta/meta-register-post.php:4051
+#: meta/meta-register-post.php:4199
+msgid "March"
+msgstr ""
+
+#: meta/meta-register-post.php:453 meta/meta-register-post.php:607
+#: meta/meta-register-post.php:758 meta/meta-register-post.php:908
+#: meta/meta-register-post.php:1056 meta/meta-register-post.php:1205
+#: meta/meta-register-post.php:1355 meta/meta-register-post.php:1505
+#: meta/meta-register-post.php:1655 meta/meta-register-post.php:1804
+#: meta/meta-register-post.php:1954 meta/meta-register-post.php:2104
+#: meta/meta-register-post.php:2253 meta/meta-register-post.php:2403
+#: meta/meta-register-post.php:3902 meta/meta-register-post.php:4052
+#: meta/meta-register-post.php:4200
+msgid "April"
+msgstr ""
+
+#: meta/meta-register-post.php:454 meta/meta-register-post.php:608
+#: meta/meta-register-post.php:759 meta/meta-register-post.php:909
+#: meta/meta-register-post.php:1057 meta/meta-register-post.php:1206
+#: meta/meta-register-post.php:1356 meta/meta-register-post.php:1506
+#: meta/meta-register-post.php:1656 meta/meta-register-post.php:1805
+#: meta/meta-register-post.php:1955 meta/meta-register-post.php:2105
+#: meta/meta-register-post.php:2254 meta/meta-register-post.php:2404
+#: meta/meta-register-post.php:3903 meta/meta-register-post.php:4053
+#: meta/meta-register-post.php:4201
+msgid "May"
+msgstr ""
+
+#: meta/meta-register-post.php:455 meta/meta-register-post.php:609
+#: meta/meta-register-post.php:760 meta/meta-register-post.php:910
+#: meta/meta-register-post.php:1058 meta/meta-register-post.php:1207
+#: meta/meta-register-post.php:1357 meta/meta-register-post.php:1507
+#: meta/meta-register-post.php:1657 meta/meta-register-post.php:1806
+#: meta/meta-register-post.php:1956 meta/meta-register-post.php:2106
+#: meta/meta-register-post.php:2255 meta/meta-register-post.php:2405
+#: meta/meta-register-post.php:3904 meta/meta-register-post.php:4054
+#: meta/meta-register-post.php:4202
+msgid "June"
+msgstr ""
+
+#: meta/meta-register-post.php:456 meta/meta-register-post.php:610
+#: meta/meta-register-post.php:761 meta/meta-register-post.php:911
+#: meta/meta-register-post.php:1059 meta/meta-register-post.php:1208
+#: meta/meta-register-post.php:1358 meta/meta-register-post.php:1508
+#: meta/meta-register-post.php:1658 meta/meta-register-post.php:1807
+#: meta/meta-register-post.php:1957 meta/meta-register-post.php:2107
+#: meta/meta-register-post.php:2256 meta/meta-register-post.php:2406
+#: meta/meta-register-post.php:3905 meta/meta-register-post.php:4055
+#: meta/meta-register-post.php:4203
+msgid "July"
+msgstr ""
+
+#: meta/meta-register-post.php:457 meta/meta-register-post.php:611
+#: meta/meta-register-post.php:762 meta/meta-register-post.php:912
+#: meta/meta-register-post.php:1060 meta/meta-register-post.php:1209
+#: meta/meta-register-post.php:1359 meta/meta-register-post.php:1509
+#: meta/meta-register-post.php:1659 meta/meta-register-post.php:1808
+#: meta/meta-register-post.php:1958 meta/meta-register-post.php:2108
+#: meta/meta-register-post.php:2257 meta/meta-register-post.php:2407
+#: meta/meta-register-post.php:3906 meta/meta-register-post.php:4056
+#: meta/meta-register-post.php:4204
+msgid "August"
+msgstr ""
+
+#: meta/meta-register-post.php:458 meta/meta-register-post.php:612
+#: meta/meta-register-post.php:763 meta/meta-register-post.php:913
+#: meta/meta-register-post.php:1061 meta/meta-register-post.php:1210
+#: meta/meta-register-post.php:1360 meta/meta-register-post.php:1510
+#: meta/meta-register-post.php:1660 meta/meta-register-post.php:1809
+#: meta/meta-register-post.php:1959 meta/meta-register-post.php:2109
+#: meta/meta-register-post.php:2258 meta/meta-register-post.php:2408
+#: meta/meta-register-post.php:3907 meta/meta-register-post.php:4057
+#: meta/meta-register-post.php:4205
+msgid "September"
+msgstr ""
+
+#: meta/meta-register-post.php:459 meta/meta-register-post.php:613
+#: meta/meta-register-post.php:764 meta/meta-register-post.php:914
+#: meta/meta-register-post.php:1062 meta/meta-register-post.php:1211
+#: meta/meta-register-post.php:1361 meta/meta-register-post.php:1511
+#: meta/meta-register-post.php:1661 meta/meta-register-post.php:1810
+#: meta/meta-register-post.php:1960 meta/meta-register-post.php:2110
+#: meta/meta-register-post.php:2259 meta/meta-register-post.php:2409
+#: meta/meta-register-post.php:3908 meta/meta-register-post.php:4058
+#: meta/meta-register-post.php:4206
+msgid "October"
+msgstr ""
+
+#: meta/meta-register-post.php:460 meta/meta-register-post.php:614
+#: meta/meta-register-post.php:765 meta/meta-register-post.php:915
+#: meta/meta-register-post.php:1063 meta/meta-register-post.php:1212
+#: meta/meta-register-post.php:1362 meta/meta-register-post.php:1512
+#: meta/meta-register-post.php:1662 meta/meta-register-post.php:1811
+#: meta/meta-register-post.php:1961 meta/meta-register-post.php:2111
+#: meta/meta-register-post.php:2260 meta/meta-register-post.php:2410
+#: meta/meta-register-post.php:3909 meta/meta-register-post.php:4059
+#: meta/meta-register-post.php:4207
+msgid "November"
+msgstr ""
+
+#: meta/meta-register-post.php:461 meta/meta-register-post.php:615
+#: meta/meta-register-post.php:766 meta/meta-register-post.php:916
+#: meta/meta-register-post.php:1064 meta/meta-register-post.php:1213
+#: meta/meta-register-post.php:1363 meta/meta-register-post.php:1513
+#: meta/meta-register-post.php:1663 meta/meta-register-post.php:1812
+#: meta/meta-register-post.php:1962 meta/meta-register-post.php:2112
+#: meta/meta-register-post.php:2261 meta/meta-register-post.php:2411
+#: meta/meta-register-post.php:3910 meta/meta-register-post.php:4060
+#: meta/meta-register-post.php:4208
+msgid "December"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:537 meta/meta-register-post.php:538
+msgid "Power Supply"
+msgstr ""
+
+#: meta/meta-register-post.php:539 meta/meta-register-post.php:540
+#: meta/meta-register-post.php:542
+msgid "Add New Power Supply"
+msgstr ""
+
+#: meta/meta-register-post.php:541
+msgid "Edit Power Supply"
+msgstr ""
+
+#: meta/meta-register-post.php:543
+msgid "View Power Supply"
+msgstr ""
+
+#: meta/meta-register-post.php:544
+msgid "Search Power Supply"
+msgstr ""
+
+#: meta/meta-register-post.php:545
+msgid "No Power Supply found"
+msgstr ""
+
+#: meta/meta-register-post.php:546
+msgid "No Power Supply found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:689 meta/meta-register-post.php:690
+msgid "Thermal Broad Status"
+msgstr ""
+
+#: meta/meta-register-post.php:691 meta/meta-register-post.php:692
+#: meta/meta-register-post.php:694
+msgid "Add New Thermal Broad Status"
+msgstr ""
+
+#: meta/meta-register-post.php:693
+msgid "Edit Thermal Broad Status"
+msgstr ""
+
+#: meta/meta-register-post.php:695
+msgid "View Thermal Broad Status"
+msgstr ""
+
+#: meta/meta-register-post.php:696
+msgid "Search Thermal Broad Status"
+msgstr ""
+
+#: meta/meta-register-post.php:697
+msgid "No Thermal Broad Status found"
+msgstr ""
+
+#: meta/meta-register-post.php:698
+msgid "No Thermal Broad Status found in trash"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:839 meta/meta-register-post.php:840
+msgid "Hydro Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:841 meta/meta-register-post.php:842
+#: meta/meta-register-post.php:844
+msgid "Add New Hydro Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:843
+msgid "Edit Hydro Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:845
+msgid "View Hydro Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:846
+msgid "Search Hydro Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:847
+msgid "No Hydro Reports found"
+msgstr ""
+
+#: meta/meta-register-post.php:848
+msgid "No Hydro Reports found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:987 meta/meta-register-post.php:988
+msgid "Outstanding"
+msgstr ""
+
+#: meta/meta-register-post.php:989 meta/meta-register-post.php:990
+#: meta/meta-register-post.php:992
+msgid "Add New Outstanding"
+msgstr ""
+
+#: meta/meta-register-post.php:991
+msgid "Edit Outstanding"
+msgstr ""
+
+#: meta/meta-register-post.php:993
+msgid "View Outstanding"
+msgstr ""
+
+#: meta/meta-register-post.php:994
+msgid "Search Outstanding"
+msgstr ""
+
+#: meta/meta-register-post.php:995
+msgid "No Outstanding found"
+msgstr ""
+
+#: meta/meta-register-post.php:996
+msgid "No Outstanding found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:1136 meta/meta-register-post.php:1137
+msgid "Regulatory"
+msgstr ""
+
+#: meta/meta-register-post.php:1138 meta/meta-register-post.php:1139
+#: meta/meta-register-post.php:1141
+msgid "Add New Regulatory"
+msgstr ""
+
+#: meta/meta-register-post.php:1140
+msgid "Edit Regulatory"
+msgstr ""
+
+#: meta/meta-register-post.php:1142
+msgid "View Regulatory"
+msgstr ""
+
+#: meta/meta-register-post.php:1143
+msgid "Search Regulatory"
+msgstr ""
+
+#: meta/meta-register-post.php:1144
+msgid "No Regulatory found"
+msgstr ""
+
+#: meta/meta-register-post.php:1145
+msgid "No Regulatory found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:1286 meta/meta-register-post.php:1287
+msgid "Installed Capacity"
+msgstr ""
+
+#: meta/meta-register-post.php:1288 meta/meta-register-post.php:1289
+#: meta/meta-register-post.php:1291
+msgid "Add New Installed Capacity"
+msgstr ""
+
+#: meta/meta-register-post.php:1290
+msgid "Edit Installed Capacity"
+msgstr ""
+
+#: meta/meta-register-post.php:1292
+msgid "View Installed Capacity"
+msgstr ""
+
+#: meta/meta-register-post.php:1293
+msgid "Search Installed Capacity"
+msgstr ""
+
+#: meta/meta-register-post.php:1294
+msgid "No Installed Capacity found"
+msgstr ""
+
+#: meta/meta-register-post.php:1295
+msgid "No Installed Capacity found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:1436 meta/meta-register-post.php:1437
+msgid "OPM Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1438 meta/meta-register-post.php:1439
+#: meta/meta-register-post.php:1441
+msgid "Add New OPM Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1440
+msgid "Edit OPM Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1442
+msgid "View OPM Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1443
+msgid "Search OPM Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1444
+msgid "No OPM Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:1445
+msgid "No OPM Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:1586 meta/meta-register-post.php:1587
+msgid "RESD Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1588 meta/meta-register-post.php:1589
+#: meta/meta-register-post.php:1591
+msgid "Add New RESD Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1590
+msgid "Edit RESD Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1592
+msgid "View RESD Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1593
+msgid "Search RESD Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1594
+msgid "No RESD Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:1595
+msgid "No RESD Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:1735 meta/meta-register-post.php:1736
+msgid "HPI Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1737 meta/meta-register-post.php:1738
+#: meta/meta-register-post.php:1740
+msgid "Add New HPI Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1739
+msgid "Edit HPI Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1741
+msgid "View HPI Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1742
+msgid "Search HPI Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1743
+msgid "No HPI Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:1744
+msgid "No HPI Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:1885 meta/meta-register-post.php:1886
+msgid "HEPR Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1887 meta/meta-register-post.php:1888
+#: meta/meta-register-post.php:1890
+msgid "Add New HEPR Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1889
+msgid "Edit HEPR Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1891
+msgid "View HEPR Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1892
+msgid "Search HEPR Report"
+msgstr ""
+
+#: meta/meta-register-post.php:1893
+msgid "No HEPR Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:1894
+msgid "No HEPR Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:2035 meta/meta-register-post.php:2036
+msgid "Executive Summary"
+msgstr ""
+
+#: meta/meta-register-post.php:2037 meta/meta-register-post.php:2038
+#: meta/meta-register-post.php:2040
+msgid "Add New Executive Summary"
+msgstr ""
+
+#: meta/meta-register-post.php:2039
+msgid "Edit Executive Summary"
+msgstr ""
+
+#: meta/meta-register-post.php:2041
+msgid "View Executive Summary"
+msgstr ""
+
+#: meta/meta-register-post.php:2042
+msgid "Search Executive Summary"
+msgstr ""
+
+#: meta/meta-register-post.php:2043
+msgid "No Executive Summary found"
+msgstr ""
+
+#: meta/meta-register-post.php:2044
+msgid "No Executive Summary found in trash"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:2184 meta/meta-register-post.php:2185
+msgid "Transmission Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2186 meta/meta-register-post.php:2187
+#: meta/meta-register-post.php:2189
+msgid "Add New Transmission Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2188
+msgid "Edit Transmission Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2190
+msgid "View Transmission Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2191
+msgid "Search Transmission Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2192
+msgid "No Transmission Reports found"
+msgstr ""
+
+#: meta/meta-register-post.php:2193
+msgid "No Transmission Reports found in trash"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:2334 meta/meta-register-post.php:2335
+msgid "Coal Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2336 meta/meta-register-post.php:2337
+#: meta/meta-register-post.php:2339
+msgid "Add New Coal Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2338
+msgid "Edit Coal Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2340
+msgid "View Coal Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2341
+msgid "Search Coal Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:2342
+msgid "No Coal Reports found"
+msgstr ""
+
+#: meta/meta-register-post.php:2343
+msgid "No Coal Reports found in trash"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:2485
+msgid "Regulations"
+msgstr ""
+
+#: meta/meta-register-post.php:2486
+msgid "Regulation"
+msgstr ""
+
+#: meta/meta-register-post.php:2487 meta/meta-register-post.php:2488
+#: meta/meta-register-post.php:2490
+msgid "Add New Regulation"
+msgstr ""
+
+#: meta/meta-register-post.php:2489
+msgid "Edit Regulation"
+msgstr ""
+
+#: meta/meta-register-post.php:2491
+msgid "View Regulation"
+msgstr ""
+
+#: meta/meta-register-post.php:2492
+msgid "Search Regulation"
+msgstr ""
+
+#: meta/meta-register-post.php:2493
+msgid "No Regulation found"
+msgstr ""
+
+#: meta/meta-register-post.php:2494
+msgid "No Regulation found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:2514
+msgctxt "taxonomy general name"
+msgid "Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2515
+msgctxt "taxonomy singular name"
+msgid "Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2516
+msgid "Search Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2517
+msgid "Popular Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2518
+msgid "All Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2521
+msgid "Edit Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2522
+msgid "Update Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2523
+msgid "Add New Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2524
+msgid "New Regulation Categories Name"
+msgstr ""
+
+#: meta/meta-register-post.php:2525
+msgid "Separate Regulation Categories with commas"
+msgstr ""
+
+#: meta/meta-register-post.php:2526
+msgid "Add or remove Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2527
+msgid "Choose from the most used Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2528
+msgid "No Regulation Categories found."
+msgstr ""
+
+#: meta/meta-register-post.php:2529
+msgid "Regulation Categories"
+msgstr ""
+
+#: meta/meta-register-post.php:2577
+msgid "Organization Structure Details"
+msgstr ""
+
+#: meta/meta-register-post.php:2602 meta/meta-register-post.php:2753
+#: meta/meta-register-post.php:5157
+msgid "Add Members Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:2605 meta/meta-register-post.php:2637
+#: meta/meta-register-post.php:2669 meta/meta-register-post.php:2701
+#: meta/meta-register-post.php:2756 meta/meta-register-post.php:3631
+#: meta/meta-register-post.php:3745 meta/meta-register-post.php:3796
+#: meta/meta-register-post.php:4295 meta/meta-register-post.php:4328
+#: meta/meta-register-post.php:4361 meta/meta-register-post.php:4393
+#: meta/meta-register-post.php:4607 meta/meta-register-post.php:4640
+#: meta/meta-register-post.php:4673 meta/meta-register-post.php:4705
+#: meta/meta-register-post.php:4766 meta/meta-register-post.php:4812
+#: meta/meta-register-post.php:4845 meta/meta-register-post.php:4878
+#: meta/meta-register-post.php:4910 meta/meta-register-post.php:4989
+#: meta/meta-register-post.php:5022 meta/meta-register-post.php:5055
+#: meta/meta-register-post.php:5087 meta/meta-register-post.php:5160
+#: meta/meta-register-post.php:5258 meta/meta-register-post.php:5360
+#: meta/meta-register-post.php:5393 meta/meta-register-post.php:5426
+#: meta/meta-register-post.php:5458 meta/meta-register-post.php:5612
+#: meta/meta-register-post.php:5676 meta/meta-register-post.php:5768
+#: meta/meta-register-post.php:5800 meta/meta-register-post.php:6142
+#: meta/meta-register-post.php:6174 meta/meta-register-post.php:6209
+#: meta/meta-register-post.php:6241 meta/meta-register-post.php:6273
+#: meta/meta-register-post.php:6401 meta/meta-register-post.php:6511
+#: meta/meta-register-post.php:6554 meta/meta-register-post.php:6624
+#: meta/meta-register-post.php:6656 meta/meta-register-post.php:6689
+#: meta/meta-register-post.php:6722 meta/meta-register-post.php:6755
+#: meta/meta-register-post.php:6787 meta/meta-register-post.php:6836
+#: meta/meta-register-post.php:6908 meta/meta-register-post.php:6940
+#: meta/meta-register-post.php:6973 meta/meta-register-post.php:7019
+#: meta/meta-register-post.php:7078 meta/meta-register-post.php:7124
+#: meta/meta-register-post.php:7171 meta/meta-register-post.php:7218
+#: meta/meta-register-post.php:7264
+msgid "Entry {#}"
+msgstr ""
+
+#: meta/meta-register-post.php:2606 meta/meta-register-post.php:2638
+#: meta/meta-register-post.php:2670 meta/meta-register-post.php:2702
+#: meta/meta-register-post.php:2757 meta/meta-register-post.php:3632
+#: meta/meta-register-post.php:3746 meta/meta-register-post.php:3797
+#: meta/meta-register-post.php:4296 meta/meta-register-post.php:4329
+#: meta/meta-register-post.php:4362 meta/meta-register-post.php:4394
+#: meta/meta-register-post.php:4608 meta/meta-register-post.php:4641
+#: meta/meta-register-post.php:4674 meta/meta-register-post.php:4706
+#: meta/meta-register-post.php:4767 meta/meta-register-post.php:4813
+#: meta/meta-register-post.php:4846 meta/meta-register-post.php:4879
+#: meta/meta-register-post.php:4911 meta/meta-register-post.php:4990
+#: meta/meta-register-post.php:5023 meta/meta-register-post.php:5056
+#: meta/meta-register-post.php:5088 meta/meta-register-post.php:5161
+#: meta/meta-register-post.php:5259 meta/meta-register-post.php:5361
+#: meta/meta-register-post.php:5394 meta/meta-register-post.php:5427
+#: meta/meta-register-post.php:5459 meta/meta-register-post.php:5613
+#: meta/meta-register-post.php:5677 meta/meta-register-post.php:5769
+#: meta/meta-register-post.php:5801 meta/meta-register-post.php:6143
+#: meta/meta-register-post.php:6175 meta/meta-register-post.php:6210
+#: meta/meta-register-post.php:6242 meta/meta-register-post.php:6274
+#: meta/meta-register-post.php:6402 meta/meta-register-post.php:6512
+#: meta/meta-register-post.php:6555 meta/meta-register-post.php:6625
+#: meta/meta-register-post.php:6657 meta/meta-register-post.php:6690
+#: meta/meta-register-post.php:6723 meta/meta-register-post.php:6756
+#: meta/meta-register-post.php:6788 meta/meta-register-post.php:6837
+#: meta/meta-register-post.php:6909 meta/meta-register-post.php:6941
+#: meta/meta-register-post.php:6974 meta/meta-register-post.php:7020
+#: meta/meta-register-post.php:7079 meta/meta-register-post.php:7125
+#: meta/meta-register-post.php:7172 meta/meta-register-post.php:7219
+#: meta/meta-register-post.php:7265
+msgid "Add Another Entry"
+msgstr ""
+
+#: meta/meta-register-post.php:2607 meta/meta-register-post.php:2639
+#: meta/meta-register-post.php:2671 meta/meta-register-post.php:2703
+#: meta/meta-register-post.php:2758 meta/meta-register-post.php:3633
+#: meta/meta-register-post.php:3747 meta/meta-register-post.php:3798
+#: meta/meta-register-post.php:4297 meta/meta-register-post.php:4330
+#: meta/meta-register-post.php:4363 meta/meta-register-post.php:4395
+#: meta/meta-register-post.php:4609 meta/meta-register-post.php:4642
+#: meta/meta-register-post.php:4675 meta/meta-register-post.php:4707
+#: meta/meta-register-post.php:4768 meta/meta-register-post.php:4814
+#: meta/meta-register-post.php:4847 meta/meta-register-post.php:4880
+#: meta/meta-register-post.php:4912 meta/meta-register-post.php:4991
+#: meta/meta-register-post.php:5024 meta/meta-register-post.php:5057
+#: meta/meta-register-post.php:5089 meta/meta-register-post.php:5162
+#: meta/meta-register-post.php:5260 meta/meta-register-post.php:5362
+#: meta/meta-register-post.php:5395 meta/meta-register-post.php:5428
+#: meta/meta-register-post.php:5460 meta/meta-register-post.php:5614
+#: meta/meta-register-post.php:5678 meta/meta-register-post.php:5770
+#: meta/meta-register-post.php:5802 meta/meta-register-post.php:6144
+#: meta/meta-register-post.php:6176 meta/meta-register-post.php:6211
+#: meta/meta-register-post.php:6243 meta/meta-register-post.php:6275
+#: meta/meta-register-post.php:6403 meta/meta-register-post.php:6513
+#: meta/meta-register-post.php:6556 meta/meta-register-post.php:6626
+#: meta/meta-register-post.php:6658 meta/meta-register-post.php:6691
+#: meta/meta-register-post.php:6724 meta/meta-register-post.php:6757
+#: meta/meta-register-post.php:6789 meta/meta-register-post.php:6838
+#: meta/meta-register-post.php:6910 meta/meta-register-post.php:6942
+#: meta/meta-register-post.php:6975 meta/meta-register-post.php:7021
+#: meta/meta-register-post.php:7080 meta/meta-register-post.php:7126
+#: meta/meta-register-post.php:7173 meta/meta-register-post.php:7220
+#: meta/meta-register-post.php:7266
+msgid "Remove Entry"
+msgstr ""
+
+#: meta/meta-register-post.php:2610 meta/meta-register-post.php:2642
+#: meta/meta-register-post.php:2674 meta/meta-register-post.php:2706
+#: meta/meta-register-post.php:2761 meta/meta-register-post.php:3636
+#: meta/meta-register-post.php:3750 meta/meta-register-post.php:3801
+#: meta/meta-register-post.php:4300 meta/meta-register-post.php:4333
+#: meta/meta-register-post.php:4366 meta/meta-register-post.php:4398
+#: meta/meta-register-post.php:4612 meta/meta-register-post.php:4645
+#: meta/meta-register-post.php:4678 meta/meta-register-post.php:4710
+#: meta/meta-register-post.php:4771 meta/meta-register-post.php:4817
+#: meta/meta-register-post.php:4850 meta/meta-register-post.php:4883
+#: meta/meta-register-post.php:4915 meta/meta-register-post.php:4994
+#: meta/meta-register-post.php:5027 meta/meta-register-post.php:5060
+#: meta/meta-register-post.php:5092 meta/meta-register-post.php:5165
+#: meta/meta-register-post.php:5263 meta/meta-register-post.php:5365
+#: meta/meta-register-post.php:5398 meta/meta-register-post.php:5431
+#: meta/meta-register-post.php:5463 meta/meta-register-post.php:5617
+#: meta/meta-register-post.php:5681 meta/meta-register-post.php:5773
+#: meta/meta-register-post.php:5805 meta/meta-register-post.php:6147
+#: meta/meta-register-post.php:6179 meta/meta-register-post.php:6214
+#: meta/meta-register-post.php:6246 meta/meta-register-post.php:6278
+#: meta/meta-register-post.php:6406 meta/meta-register-post.php:6516
+#: meta/meta-register-post.php:6559 meta/meta-register-post.php:6629
+#: meta/meta-register-post.php:6661 meta/meta-register-post.php:6694
+#: meta/meta-register-post.php:6727 meta/meta-register-post.php:6760
+#: meta/meta-register-post.php:6792 meta/meta-register-post.php:6841
+#: meta/meta-register-post.php:6913 meta/meta-register-post.php:6945
+#: meta/meta-register-post.php:6978 meta/meta-register-post.php:7024
+#: meta/meta-register-post.php:7083 meta/meta-register-post.php:7129
+#: meta/meta-register-post.php:7176 meta/meta-register-post.php:7223
+#: meta/meta-register-post.php:7269
+msgid "Are you sure you want to remove?"
+msgstr ""
+
+#: meta/meta-register-post.php:2634
+msgid "Add Principal Chief Engineers Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:2666
+msgid "Add Other Important Officers Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:2698
+msgid "Add Organogram Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:2730
+msgid "Chairman and Members Profile Details"
+msgstr ""
+
+#: meta/meta-register-post.php:2822 meta/meta-register-post.php:2823
+msgid "General Review"
+msgstr ""
+
+#: meta/meta-register-post.php:2824 meta/meta-register-post.php:2825
+#: meta/meta-register-post.php:2827
+msgid "Add New General Review"
+msgstr ""
+
+#: meta/meta-register-post.php:2826
+msgid "Edit General Review"
+msgstr ""
+
+#: meta/meta-register-post.php:2828
+msgid "View General Review"
+msgstr ""
+
+#: meta/meta-register-post.php:2829
+msgid "Search General Review"
+msgstr ""
+
+#: meta/meta-register-post.php:2830
+msgid "No General Review found"
+msgstr ""
+
+#: meta/meta-register-post.php:2831
+msgid "No General Review found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:2935 meta/meta-register-post.php:2936
+msgid "Annual Generation"
+msgstr ""
+
+#: meta/meta-register-post.php:2937 meta/meta-register-post.php:2938
+#: meta/meta-register-post.php:2940
+msgid "Add New Annual Generation"
+msgstr ""
+
+#: meta/meta-register-post.php:2939
+msgid "Edit Annual Generation"
+msgstr ""
+
+#: meta/meta-register-post.php:2941
+msgid "View Annual Generation"
+msgstr ""
+
+#: meta/meta-register-post.php:2942
+msgid "Search Annual Generation"
+msgstr ""
+
+#: meta/meta-register-post.php:2943
+msgid "No Annual Generation found"
+msgstr ""
+
+#: meta/meta-register-post.php:2944
+msgid "No Annual Generation found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:3045 meta/meta-register-post.php:3046
+msgid "Annual Hydro"
+msgstr ""
+
+#: meta/meta-register-post.php:3047 meta/meta-register-post.php:3048
+#: meta/meta-register-post.php:3050
+msgid "Add New Annual Hydro"
+msgstr ""
+
+#: meta/meta-register-post.php:3049
+msgid "Edit Annual Hydro"
+msgstr ""
+
+#: meta/meta-register-post.php:3051
+msgid "View Annual Hydro"
+msgstr ""
+
+#: meta/meta-register-post.php:3052
+msgid "Search Annual Hydro"
+msgstr ""
+
+#: meta/meta-register-post.php:3053
+msgid "No Annual Hydro found"
+msgstr ""
+
+#: meta/meta-register-post.php:3054
+msgid "No Annual Hydro found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:3154 meta/meta-register-post.php:3155
+msgid "Distribution & Village"
+msgstr ""
+
+#: meta/meta-register-post.php:3156 meta/meta-register-post.php:3157
+#: meta/meta-register-post.php:3159
+msgid "Add New Distribution & Village"
+msgstr ""
+
+#: meta/meta-register-post.php:3158
+msgid "Edit Distribution & Village"
+msgstr ""
+
+#: meta/meta-register-post.php:3160
+msgid "View Distribution & Village"
+msgstr ""
+
+#: meta/meta-register-post.php:3161
+msgid "Search Distribution & Village"
+msgstr ""
+
+#: meta/meta-register-post.php:3162
+msgid "No Distribution & Village found"
+msgstr ""
+
+#: meta/meta-register-post.php:3163
+msgid "No Distribution & Village found in trash"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:3264 meta/meta-register-post.php:3265
+msgid "Annual Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3266 meta/meta-register-post.php:3267
+#: meta/meta-register-post.php:3269
+msgid "Add New Annual Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3268
+msgid "Edit Annual Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3270
+msgid "View Annual Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3271
+msgid "Search Annual Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3272
+msgid "No Annual Reports found"
+msgstr ""
+
+#: meta/meta-register-post.php:3273
+msgid "No Annual Reports found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:3374 meta/meta-register-post.php:3375
+msgid "L.G.B.R. Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3376 meta/meta-register-post.php:3377
+#: meta/meta-register-post.php:3379
+msgid "Add New L.G.B.R. Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3378
+msgid "Edit L.G.B.R. Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3380
+msgid "View L.G.B.R. Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3381
+msgid "Search L.G.B.R. Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:3382
+msgid "No L.G.B.R. Reports found"
+msgstr ""
+
+#: meta/meta-register-post.php:3383
+msgid "No L.G.B.R. Reports found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:3483 meta/meta-register-post.php:3484
+msgid "A Fuel Consumption"
+msgstr ""
+
+#: meta/meta-register-post.php:3485 meta/meta-register-post.php:3486
+#: meta/meta-register-post.php:3488
+msgid "Add New  A Fuel Consumption"
+msgstr ""
+
+#: meta/meta-register-post.php:3487
+msgid "Edit  A Fuel Consumption"
+msgstr ""
+
+#: meta/meta-register-post.php:3489
+msgid "View  A Fuel Consumption"
+msgstr ""
+
+#: meta/meta-register-post.php:3490
+msgid "Search  A Fuel Consumption"
+msgstr ""
+
+#: meta/meta-register-post.php:3491
+msgid "No  A Fuel Consumption found"
+msgstr ""
+
+#: meta/meta-register-post.php:3492
+msgid "No  A Fuel Consumption found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:3592
+msgid "Committee Reports Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:3614 meta/meta-register-post.php:4440
+#: meta/meta-register-post.php:4578 meta/meta-register-post.php:4753
+#: meta/meta-register-post.php:5145 meta/meta-register-post.php:5515
+msgid "Three"
+msgstr ""
+
+#: meta/meta-register-post.php:3615 meta/meta-register-post.php:4441
+#: meta/meta-register-post.php:4579 meta/meta-register-post.php:4754
+#: meta/meta-register-post.php:5146 meta/meta-register-post.php:5516
+msgid "Four"
+msgstr ""
+
+#: meta/meta-register-post.php:3616 meta/meta-register-post.php:4442
+#: meta/meta-register-post.php:4580 meta/meta-register-post.php:4755
+#: meta/meta-register-post.php:5147 meta/meta-register-post.php:5517
+msgid "Five"
+msgstr ""
+
+#: meta/meta-register-post.php:3628
+msgid "Add Committee Reports Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:3729
+msgid "Help Page Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:3742
+msgid "Add Help Page Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:3780
+msgid "Committe Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:3793
+msgid "Add Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:3832
+msgid "Thermal Renovation"
+msgstr ""
+
+#: meta/meta-register-post.php:3833
+msgid "A Thermal Renovation"
+msgstr ""
+
+#: meta/meta-register-post.php:3834 meta/meta-register-post.php:3835
+#: meta/meta-register-post.php:3837
+msgid "Add New  A Thermal Renovation"
+msgstr ""
+
+#: meta/meta-register-post.php:3836
+msgid "Edit  A Thermal Renovation"
+msgstr ""
+
+#: meta/meta-register-post.php:3838
+msgid "View  A Thermal Renovation"
+msgstr ""
+
+#: meta/meta-register-post.php:3839
+msgid "Search  A Thermal Renovation"
+msgstr ""
+
+#: meta/meta-register-post.php:3840
+msgid "No  A Thermal Renovation found"
+msgstr ""
+
+#: meta/meta-register-post.php:3841
+msgid "No  A Thermal Renovation found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:3982
+msgid "Thermal Project"
+msgstr ""
+
+#: meta/meta-register-post.php:3983
+msgid "A Thermal Project"
+msgstr ""
+
+#: meta/meta-register-post.php:3984 meta/meta-register-post.php:3985
+#: meta/meta-register-post.php:3987
+msgid "Add New  A Thermal Project"
+msgstr ""
+
+#: meta/meta-register-post.php:3986
+msgid "Edit  A Thermal Project"
+msgstr ""
+
+#: meta/meta-register-post.php:3988
+msgid "View  A Thermal Project"
+msgstr ""
+
+#: meta/meta-register-post.php:3989
+msgid "Search  A Thermal Project"
+msgstr ""
+
+#: meta/meta-register-post.php:3990
+msgid "No  A Thermal Project found"
+msgstr ""
+
+#: meta/meta-register-post.php:3991
+msgid "No  A Thermal Project found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:4130
+msgid "R&M of HEP"
+msgstr ""
+
+#: meta/meta-register-post.php:4131
+msgid "A R&M of HEP"
+msgstr ""
+
+#: meta/meta-register-post.php:4132 meta/meta-register-post.php:4133
+#: meta/meta-register-post.php:4135
+msgid "Add New  A R&M of HEP"
+msgstr ""
+
+#: meta/meta-register-post.php:4134
+msgid "Edit  A R&M of HEP"
+msgstr ""
+
+#: meta/meta-register-post.php:4136
+msgid "View  A R&M of HEP"
+msgstr ""
+
+#: meta/meta-register-post.php:4137
+msgid "Search  A R&M of HEP"
+msgstr ""
+
+#: meta/meta-register-post.php:4138
+msgid "No  A R&M of HEP found"
+msgstr ""
+
+#: meta/meta-register-post.php:4139
+msgid "No  A R&M of HEP found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:4280
+msgid "Power System Planning Committee Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4292 meta/meta-register-post.php:4604
+#: meta/meta-register-post.php:4809 meta/meta-register-post.php:4986
+#: meta/meta-register-post.php:5357 meta/meta-register-post.php:5673
+#: meta/meta-register-post.php:5765
+msgid "Add Report Type 1 Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4325 meta/meta-register-post.php:4637
+#: meta/meta-register-post.php:4842 meta/meta-register-post.php:5019
+#: meta/meta-register-post.php:5390 meta/meta-register-post.php:5797
+msgid "Add Report Type 2 Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4358 meta/meta-register-post.php:4670
+#: meta/meta-register-post.php:4875 meta/meta-register-post.php:5052
+#: meta/meta-register-post.php:5423
+msgid "Add Report Type 3 Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4390 meta/meta-register-post.php:4702
+#: meta/meta-register-post.php:4907 meta/meta-register-post.php:5084
+#: meta/meta-register-post.php:5455
+msgid "Add Report Type 4 Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4428
+msgid "PSPC Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4453
+msgid "Rules & Order Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4479
+msgid "Transmission Committee Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:4480
+msgid "Transmission Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4481 meta/meta-register-post.php:4482
+#: meta/meta-register-post.php:4484
+msgid "Add New Transmission Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4483
+msgid "Edit Transmission Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4485
+msgid "View Transmission Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4486
+msgid "Search Transmission Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4487
+msgid "No Transmission Committee Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:4488
+msgid "No Transmission Committee Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:4506
+msgid "Transmission Committee Type"
+msgstr ""
+
+#: meta/meta-register-post.php:4523
+msgid "Perspective Plan Committee Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:4524
+msgid "Perspective Plan Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4525 meta/meta-register-post.php:4526
+#: meta/meta-register-post.php:4528
+msgid "Add New Perspective Plan Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4527
+msgid "Edit Perspective Plan Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4529
+msgid "View Perspective Plan Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4530
+msgid "Search Perspective Plan Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4531
+msgid "No Perspective Plan Committee Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:4532
+msgid "No Perspective Plan Committee Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:4550
+msgid "Perspective Plan Committee Region"
+msgstr ""
+
+#: meta/meta-register-post.php:4566 meta/meta-register-post.php:4592
+msgid "Transmission Committee Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4741
+msgid "Perspective Plan Committee Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:4764 meta/meta-register-post.php:5256
+msgid "Add Report Details Here:"
+msgstr ""
+
+#: meta/meta-register-post.php:4797
+msgid "Please Input Perspective Plan Committee Report Details Here:"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:4944
+msgid "RESD Committee Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:4945
+msgid "RESD Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4946 meta/meta-register-post.php:4947
+#: meta/meta-register-post.php:4949
+msgid "Add New RESD Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4948
+msgid "Edit RESD Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4950
+msgid "View RESD Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4951
+msgid "Search RESD Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:4952
+msgid "No RESD Committee Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:4953
+msgid "No RESD Committee Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:4974
+msgid "Please Add RESD Committee Report Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:5121
+msgid "Please Provde Details for RESD - Committee Reports Page"
+msgstr ""
+
+#: meta/meta-register-post.php:5193
+msgid "FTPE Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:5194
+msgid "FTPE Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5195 meta/meta-register-post.php:5196
+#: meta/meta-register-post.php:5198
+msgid "Add New FTPE Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5197
+msgid "Edit FTPE Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5199
+msgid "View FTPE Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5200
+msgid "Search FTPE Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5201
+msgid "No FTPE Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:5202
+msgid "No FTPE Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:5222
+msgid "Failure Type"
+msgstr ""
+
+#: meta/meta-register-post.php:5239 meta/meta-register-post.php:5289
+msgid "Failure of Towers & Power Equipment Committee Report Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:5314
+msgid "PTCC Committee Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:5315
+msgid "PTCC Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5316 meta/meta-register-post.php:5317
+#: meta/meta-register-post.php:5319
+msgid "Add New PTCC Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5318
+msgid "Edit PTCC Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5320
+msgid "View PTCC Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5321
+msgid "Search PTCC Committee Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5322
+msgid "No PTCC Committee Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:5323
+msgid "No PTCC Committee Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:5345
+msgid "Please Add PTCC Committee Report Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:5493
+msgid "Please Provde Details for PTCC Committee Reports Page"
+msgstr ""
+
+#: meta/meta-register-post.php:5529
+msgid "National Power Committee Meetings Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:5530
+msgid "National Power Committee Meetings Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5531 meta/meta-register-post.php:5532
+#: meta/meta-register-post.php:5534
+msgid "Add New National Power Committee Meetings Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5533
+msgid "Edit National Power Committee Meetings Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5535
+msgid "View National Power Committee Meetings Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5536
+msgid "Search National Power Committee Meetings Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5537
+msgid "No National Power Committee Meetings Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:5538
+msgid "No National Power Committee Meetings Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:5559
+msgid "Please Add National Power Committee- Meetings Report Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:5598
+msgid "National Power Committee (NPC) Details"
+msgstr ""
+
+#: meta/meta-register-post.php:5610
+msgid "Add National Power Committee (NPC) Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:5645
+msgid "Please Add NRCE Committee Report Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:5662
+msgid "NRCE Meeting Page URL"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: meta/meta-register-post.php:5710
+msgid "NRCE Meetings"
+msgstr ""
+
+#: meta/meta-register-post.php:5711
+msgid "NRCE Meeting"
+msgstr ""
+
+#: meta/meta-register-post.php:5712 meta/meta-register-post.php:5713
+#: meta/meta-register-post.php:5715
+msgid "Add New NRCE Meeting"
+msgstr ""
+
+#: meta/meta-register-post.php:5714
+msgid "Edit NRCE Meeting"
+msgstr ""
+
+#: meta/meta-register-post.php:5716
+msgid "View NRCE Meeting"
+msgstr ""
+
+#: meta/meta-register-post.php:5717
+msgid "Search NRCE Meeting"
+msgstr ""
+
+#: meta/meta-register-post.php:5718
+msgid "No NRCE Meeting found"
+msgstr ""
+
+#: meta/meta-register-post.php:5719
+msgid "No NRCE Meeting found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:5735
+msgid "NRCE Meeting Type"
+msgstr ""
+
+#: meta/meta-register-post.php:5753
+msgid "Please Add NRCE Meeting Report Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:5834
+msgid "PSPC Reports"
+msgstr ""
+
+#: meta/meta-register-post.php:5835
+msgid "PSPC Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5836 meta/meta-register-post.php:5837
+#: meta/meta-register-post.php:5839
+msgid "Add New PSPC Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5838
+msgid "Edit PSPC Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5840
+msgid "View PSPC Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5841
+msgid "Search PSPC Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5842
+msgid "No PSPC Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:5843
+msgid "No PSPC Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:5861
+msgid "PSPC Region"
+msgstr ""
+
+#: meta/meta-register-post.php:5877 meta/meta-register-post.php:5878
+msgid "Thermal Performance Review"
+msgstr ""
+
+#: meta/meta-register-post.php:5879 meta/meta-register-post.php:5880
+#: meta/meta-register-post.php:5882
+msgid "Add New Thermal Performance Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5881
+msgid "Edit Thermal Performance Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5883
+msgid "View Thermal Performance Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5884
+msgid "Search Thermal Performance Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5885
+msgid "No Thermal Performance Review Report found"
+msgstr ""
+
+#: meta/meta-register-post.php:5886
+msgid "No Thermal Performance Review Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:5986 meta/meta-register-post.php:5987
+msgid "Transmission Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5988 meta/meta-register-post.php:5989
+#: meta/meta-register-post.php:5991
+msgid "Add New Transmission Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5990
+msgid "Edit Transmission Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5992
+msgid "View Transmission Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5993
+msgid "Search Transmission Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5994
+msgid "No Transmission Review Report"
+msgstr ""
+
+#: meta/meta-register-post.php:5995
+msgid "No Transmission Review Report found in trash"
+msgstr ""
+
+#: meta/meta-register-post.php:6100 meta/meta-register-post.php:6322
+msgid "Please Add Generation Report Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6113
+msgid "Select Report Type"
+msgstr ""
+
+#: meta/meta-register-post.php:6114
+msgid "Actual"
+msgstr ""
+
+#: meta/meta-register-post.php:6115
+msgid "Tentative"
+msgstr ""
+
+#: meta/meta-register-post.php:6116
+msgid "Monthly Review"
+msgstr ""
+
+#: meta/meta-register-post.php:6139
+msgid "Add Contents Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:6171
+msgid "Add Sector Wise Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:6206
+msgid "Add Fuel Wise Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:6238
+msgid "Add Region Wise State  Wise and Station Wise Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:6270
+msgid "Add Gas Based Stations Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:6345
+msgid "Important Link Details"
+msgstr ""
+
+#: meta/meta-register-post.php:6366
+msgid "Contact Page Section"
+msgstr ""
+
+#: meta/meta-register-post.php:6388
+msgid "Please Add Contact Us Page Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6398
+msgid "Add Contact Details:"
+msgstr ""
+
+#: meta/meta-register-post.php:6462
+msgid "Please Add Wings Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6508 meta/meta-register-post.php:6833
+msgid "Add Reports Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6539 meta/meta-register-post.php:6582
+#: meta/meta-register-post.php:6864
+msgid "Enter Report Webpage URL if file not available."
+msgstr ""
+
+#: meta/meta-register-post.php:6551
+msgid "Add Other Reports Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6598 meta/meta-register-post.php:6621
+msgid "Please Add Planning Wing Divisions Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6653
+msgid "Please Add Thermal Wing Divisions Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6686
+msgid "Please Add Hydro Wing Divisions Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6719
+msgid "Please Add Power System Wing Divisions Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6752
+msgid "Please Add Grid Operation & Distribution Wing Divisions Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6784
+msgid "Add Economic & Commercial Wing Divisions Details Here:"
+msgstr ""
+
+#: meta/meta-register-post.php:6820
+msgid "Please Add Reports Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6882
+msgid "Please Add Chairperson Office Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6905
+msgid "Please Add Secretary Office Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6937
+msgid "Please Add Project Appraisal Committee Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:6970
+msgid "Please Add Principal Chief Engineer-I Office Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7003
+msgid "Please Add Power Map Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7016
+msgid "Add Power Map Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7054
+msgid "Please Add International Co-operation Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7075
+msgid "Add Report Type 1 Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7121
+msgid "Add Report Type 2 Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7168
+msgid "Add Report Type 3 Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7215
+msgid "Add Report Type 4 Details Here :"
+msgstr ""
+
+#: meta/meta-register-post.php:7261
+msgid "Add Report Type 5 Details Here :"
+msgstr ""
+
+#. translators: %s: The search query.
+#: search.php:17
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: search.php:31
+msgid "Results"
+msgstr ""
+
+#: search.php:77 search.php:80
+msgid "<tr><td><p><a href=\""
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: shortcode/shortcode.php:152 single.php:41
+msgid "Previous"
+msgstr ""
+
+#: shortcode/shortcode.php:158 single.php:38
+msgid "Next"
+msgstr ""
+
+#: single.php:39
+msgid "Next post:"
+msgstr ""
+
+#: single.php:42
+msgid "Previous post:"
+msgstr ""
+
+#: taxonomy-comm_type.php:9 taxonomy-failure_type.php:10
+#: taxonomy-perplancomm_region.php:9 taxonomy-pspc_region.php:9
+#: taxonomy-regulations_category.php:13 template-help.php:9
+#: template-nrce_meetings_type.php:10 template-regulations.php:16
+#: template_committee_national_elec_plan.php:9
+#: template_committee_reports.php:11 template_daily_coal_reports.php:11
+#: template_daily_reports.php:11 template_latest_happenings.php:10
+#: template_national_power_committee.php:11
+#: template_national_reliability_council_electricity.php:11
+#: template_organization_structure.php:10
+#: template_profile_chairman_members.php:10 template_ptcc_committee.php:11
+#: template_resd_committee.php:10 template_rules_order.php:9
+#: template_tender.php:10
+msgid "<h1 class=\"page-title\">"
+msgstr ""
+
+#: taxonomy-failure_type.php:89
+msgid " - Committee Reports"
+msgstr ""
+
+#: taxonomy-regulations_category.php:140
+msgid "/regulation-list/?cat="
+msgstr ""
+
+#: template-nrce_meetings_type.php:91 template-nrce_meetings_type.php:119
+msgid "<p>"
+msgstr ""
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
+
+#. translators: %s: The post author display name.
+#: template-parts/biography.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: Post editor URL.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr ""
+
+#: template_committee_reports.php:50 template_committee_reports.php:206
+#: template_committee_reports.php:326
+msgid "<td>"
+msgstr ""
+
+#: template_committee_reports.php:56 template_committee_reports.php:90
+#: template_committee_reports.php:124 template_committee_reports.php:159
+#: template_committee_reports.php:212 template_committee_reports.php:246
+#: template_committee_reports.php:280 template_committee_reports.php:332
+#: template_committee_reports.php:366
+msgid "<td><a href='"
+msgstr ""
+
+#: template_committee_reports.php:80 template_committee_reports.php:114
+#: template_committee_reports.php:148 template_committee_reports.php:182
+#: template_committee_reports.php:236 template_committee_reports.php:270
+#: template_committee_reports.php:304 template_committee_reports.php:356
+#: template_committee_reports.php:390
+msgid "<p><a href='"
+msgstr ""
+
+#: template_committee_reports.php:85 template_committee_reports.php:119
+#: template_committee_reports.php:153 template_committee_reports.php:187
+#: template_committee_reports.php:241 template_committee_reports.php:275
+#: template_committee_reports.php:309 template_committee_reports.php:361
+#: template_committee_reports.php:395
+msgid "<td> </td>"
+msgstr ""
+
+#: template_dashboard.php:311
+msgid "Dashboard at Glance"
+msgstr ""
+
+#: template_feedback_form.php:40
+msgid "/form-success-feedback/"
+msgstr ""
+
+#: template_grievenace_form.php:71 template_grievenace_form.php:145
+msgid "/form-success-grievance/"
+msgstr ""
+
+#: template_national_power_committee.php:62
+msgid "National Power Committee - Meetings"
+msgstr ""
+
+#: template_national_reliability_council_electricity.php:124
+msgid "NRCE - Meetings"
+msgstr ""
+
+#: template_tender.php:18
+msgid " Reports"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "CEA Website"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://kreatetechnologies.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom Theme for CEA Website"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kreate Technologies LLP"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page 2"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Function"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Annual Fuel Consumption"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Annual Generation Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Hydro Review Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Cea News"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Certifications"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Us"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Distribution & Village Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Executive Summary Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "General Review Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Grievances"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Help"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "HEPR Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "HPI Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Installed Capacity Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "International Co-operation"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "IRP wing-Planning"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "L.G.B.R Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "National Power Committee"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "NRCE Committe"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "OPM Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Outstanding Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Perspective Plan Committee"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "wing-Planning"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Perspective Plan Committee- Northern Region"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "PTCC Committee"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Regulatory Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Resd Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "R&M HEP Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "rti"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Search Result"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Terms & Conditions"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Thermal Broad Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Thermal Project Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Thermal Renovatn Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Website Policy"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "wings"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "All India Installed Capacity"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archive Monthly Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Reports Archive"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archive Tender Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archive Yearly Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "National Electricity Plan Committee"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Committee Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Us Taxonomy"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Daily Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Feedback Form"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Feedback Form Success Message"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Feedback Form OTP Verification"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "General Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Grievance Form Success Message"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Grievance Form"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Installed Capacity Data Dump"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Installed Capacity Progess"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Latest Happenings"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "National Power Committee Report"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "National Reliability Council(NRCE)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Organization Structure"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "OTP Verification"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "PFRAME"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Planwise Growth India"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Power Maps"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Profiles of Chairman and Members"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Progress Generation Dump"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "PSP"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "PTCC Committe Report"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "RE Generation"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Report Filter"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Rules & Order"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sitemap */"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Tenders"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Thermal Performance Review Report"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Transformation Data Dump"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Transmission Data Dump"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Transmission Review Reports"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Wings Tree Structure"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Wing Divisions"
+msgstr ""
