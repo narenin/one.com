@@ -18,7 +18,13 @@ function whats_new_section_function(){
 			?>
 			<div class="d-flex mb-2">
 				<div class="img-thhum">
-					<img src="<?php echo $src[0]; ?>" class="img-fluid news-thum-img" />
+					<?php
+					if(!empty($src)){
+						?>
+						<img src="<?php echo $src[0]; ?>" class="img-fluid news-thum-img" />
+						<?php
+					}
+					?>
 				</div>
 				<div class="d-flex flex-column justify-content-between align-items-start ml-2">
 					<p class="news-text">

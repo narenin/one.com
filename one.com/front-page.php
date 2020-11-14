@@ -20,7 +20,7 @@ get_header();
 				?>
 
 
-				<div class="swiper-slide hp_bg-img hp_bg-img-<?php echo $count; ?>" style="background-image: url(<?php echo get_the_post_thumbnail_url(); ?>);">
+				<div class="swiper-slide hp_bg-img hp_bg-img-<?php echo $count; ?>" <?php if(get_the_post_thumbnail_url()){ ?> style="background-image: url(<?php echo get_the_post_thumbnail_url(); ?>);" <?php } ?>>
 					<div class="container mt-header">
 						<div class="d-flex justify-content-between flex-column flex-md-row align-xs-center">
 							<!-- Left Section -->
